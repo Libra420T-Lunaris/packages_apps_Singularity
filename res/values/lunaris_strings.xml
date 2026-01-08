@@ -63,6 +63,9 @@
     <string name="themes_wifi_icon_summary">Set Wi-Fi icon style</string>
     <string name="themes_navigation_bar_icons_title">Navigation bar icons</string>
     <string name="themes_navigation_bar_icons_summary">Set navigation bar icon style</string>
+    <!-- UDFPS settings -->
+    <string name="udfps_settings_title">UDFPS customization</string>
+    <string name="udfps_settings_summary">Customize under-display fingerprint scanner</string>
     <string name="themes_udfps_icon_title">UDFPS icon</string>
     <string name="themes_udfps_icon_summary">Set UDFPS icon style</string>
     
