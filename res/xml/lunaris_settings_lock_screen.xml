@@ -196,13 +196,7 @@
             android:entryValues="@array/themes_screen_off_animation_values"
             android:defaultValue="0" />
 
-    </PreferenceCategory>
-
-    <PreferenceCategory
-        android:key="lockscreen_custom_category"
-        android:title="@string/udfps_custom_title">
-
-        <Preference
+		<Preference
             android:key="udfps_cust"
             android:title="@string/udfps_cust_title"
             android:summary="@string/udfps_cust_summary"
