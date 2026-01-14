@@ -92,6 +92,12 @@
             android:summary="@string/qs_single_tone_summary"
             android:defaultValue="false" />
 
+        <org.lunaris.settings.preferences.SystemSettingSwitchPreference
+            android:key="dual_target_tile_style"
+            android:title="@string/dual_target_tile_style_title"
+            android:summary="@string/dual_target_tile_style_summary"
+            android:defaultValue="false" />
+
         <org.lunaris.settings.preferences.SystemSettingSeekBarPreference
             android:key="shade_panel_alpha"
             android:title="@string/shade_panel_alpha_title"
@@ -152,6 +158,12 @@
             android:entries="@array/qs_data_usage_cycle_type_entries"
             android:entryValues="@array/qs_data_usage_cycle_type_values"
             android:defaultValue="0" />
+
+        <org.lunaris.settings.preferences.SecureSettingSwitchPreference
+            android:key="qs_show_data_usage_tile"
+            android:title="@string/qs_show_data_usage_title"
+            android:summary="@string/qs_show_data_usage_summary"
+            android:defaultValue="true" />
 
         <Preference
             android:key="qs_layout_columns_rows"

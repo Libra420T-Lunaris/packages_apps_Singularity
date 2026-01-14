@@ -480,6 +480,8 @@
     <string name="qs_data_usage_cycle_weekly">Weekly</string>
     <string name="qs_show_data_usage_cycle_info_title">Show cycle info</string>
     <string name="qs_show_data_usage_cycle_info_summary">Display additional information about the data usage cycle</string>
+    <string name="qs_show_data_usage_title">Show data usage in tiles</string>
+    <string name="qs_show_data_usage_summary">Display data usage information in WiFi and Cellular Quick Settings tiles</string>
     <string name="quick_settings_lock_screen_category">Lock screen</string>
     <string name="quick_settings_secure_lock_screen_title">Show on secure lock screen</string>
     <string name="quick_settings_secure_lock_screen_summary">Show all quick settings in the notification shade while the device is locked</string>
@@ -950,6 +952,7 @@
     <!-- Screen off AOD -->
     <string name="screen_off_aod_enabled_title">Screen Off AOD</string>
     <string name="screen_off_aod_enabled_summary">Briefly show the Always-On Display when the screen turns off</string>
+    <string name="screen_off_aod_duration_title">Screen Off AOD Duration</string>
 
     <!-- navigation bar -->
     <string name="navigation_bar_mode_title">Hide keyboard ime</string>
@@ -1595,4 +1598,11 @@
     <!-- Emergency button toggle -->
     <string name="lockscreen_emergency_button_title">Show emergency button</string>
     <string name="lockscreen_emergency_button_summary">Display emergency call button on lockscreen</string>
+
+    <string name="dual_target_tile_style_title">Use Single Tone tile style</string>
+    <string name="dual_target_tile_style_summary">Apply full tile coloring for dual target tiles like WiFi and Bluetooth</string>
+
+        <!-- Vbmeta hash attestation -->
+    <string name="vbmeta_attestation_title">Autofix VBMeta detection</string>
+    <string name="vbmeta_attestation_summary">Perform key attestation to generate verified boot hash on boot. Requires system restart.</string>
 </resources>
