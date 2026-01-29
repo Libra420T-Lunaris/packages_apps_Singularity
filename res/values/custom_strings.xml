@@ -17,7 +17,14 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-        <!-- Statusbar lyric -->
+	<!-- Now Bar -->
+    <string name="keyguard_now_bar_enabled_title">Now Bar</string>
+    <string name="keyguard_now_bar_enabled_summary">Enable now bar lockscreen widgets</string>
+    <!-- Nowbar height -->
+    <string name="now_bar_height_title">Nowbar height</string>
+    <string name="now_bar_height_summary">Adjust the height of the Nowbar</string>
+
+    <!-- Statusbar lyric -->
     <string name="status_bar_lyric_title">Status bar lyric</string>
     <string name="status_bar_lyric_summary">Show lyric in status bar (need app support)</string>
     <string name="status_bar_lyric_options_title">Options</string>
