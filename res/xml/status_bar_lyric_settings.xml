@@ -22,7 +22,5 @@
             android:summary="@string/disguise_props_for_music_app_summary"
             android:dependency="status_bar_show_lyric"
             android:defaultValue="false"/>
-
     </PreferenceCategory>
-
 </PreferenceScreen>
