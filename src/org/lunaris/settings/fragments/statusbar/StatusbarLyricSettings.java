@@ -2,7 +2,7 @@
  * SPDX-FileCopyrightText: 2022 Project Kaleidoscope
  * SPDX-License-Identifier: Apache-2.0
  */
-package com.rising.settings.fragments.statusbar;
+package org.lunaris.settings.fragments.statusbar;
 
 import android.content.ContentResolver;
 import android.content.Context;
